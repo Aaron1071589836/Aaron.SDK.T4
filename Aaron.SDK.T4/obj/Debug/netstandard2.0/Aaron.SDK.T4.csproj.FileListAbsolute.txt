@@ -1,0 +1,8 @@
+E:\Aaron.SDK.T4\Aaron.SDK.T4\bin\Debug\netstandard2.0\Aaron.SDK.T4.deps.json
+E:\Aaron.SDK.T4\Aaron.SDK.T4\bin\Debug\netstandard2.0\Aaron.SDK.T4.dll
+E:\Aaron.SDK.T4\Aaron.SDK.T4\obj\Debug\netstandard2.0\Aaron.SDK.T4.AssemblyInfoInputs.cache
+E:\Aaron.SDK.T4\Aaron.SDK.T4\obj\Debug\netstandard2.0\Aaron.SDK.T4.AssemblyInfo.cs
+E:\Aaron.SDK.T4\Aaron.SDK.T4\obj\Debug\netstandard2.0\Aaron.SDK.T4.csproj.CoreCompileInputs.cache
+E:\Aaron.SDK.T4\Aaron.SDK.T4\bin\Debug\netstandard2.0\Aaron.SDK.T4.pdb
+E:\Aaron.SDK.T4\Aaron.SDK.T4\obj\Debug\netstandard2.0\Aaron.SDK.T4.dll
+E:\Aaron.SDK.T4\Aaron.SDK.T4\obj\Debug\netstandard2.0\Aaron.SDK.T4.pdb
